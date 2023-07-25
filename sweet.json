@@ -12,17 +12,17 @@
         "size": 123456789,
         "version": "will add",
         "buildtype": "Testing/Alpha/Beta/Weekly/Monthly",
-        "forum": "https://forum link",
-        "gapps": "https://gapps link",
-        "firmware": "https://firmware link",
-        "modem": "https://modem link",
-        "bootloader": "https://bootloader link",
-        "recovery": "https://recovery link",
-        "paypal": "https://donation link",
-        "telegram": "https://telegram link",
-        "dt": "https://github.com/ricedroidandroid/android_device_<oem>_<device_codename>",
-        "common-dt": "https://github.com/ricedroidandroid/android_device_<orm>_<SOC>-common",
-        "kernel": "https://github.com/ricedroidandroid/android_kernel_<oem>_<SOC>"
+        "forum": "https://forum.xda-developers.com/t/rom-13-unofficial-risingos.4609151/",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://ko-fi.com/alpha4041",
+        "telegram": "https://t.me/alph4chat",
+        "dt": "https://github.com/alpha4041/android_device_xiaomi_sweet",
+        "common-dt": "https://github.com/alpha4041/android_device_xiaomi_sm6150-common",
+        "kernel": "https://github.com/basamaryan/kernel_xiaomi_sm6150/"
     }
   ]
 }
