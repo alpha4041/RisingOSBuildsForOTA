@@ -1,4 +1,5 @@
-27/07/2023:
+28/07/2023:
 - Add OTA support
 - Add leica Camera
-- Miscellanous source-side changes
+- (source) Add QS Panel images
+- (source) miscellanous changes and improvements
