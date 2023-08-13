@@ -1,3 +1,33 @@
+13/08/2023:
+Source Changes
+* Based on August Security Patch
+* Fixed crashes with Whatsapp and lsposed
+* Fixed issue with sharing links, photos with Whatsapp from other apps
+* Fixed lockscreen charging showing current/power value as zero
+* Updated settings intelligence prebuilt
+* Added more volume styles
+* About Phone UI Reworked fully
+* Applock: Fix an issue where system allowlist is not respected
+* system haptics: Optional QS tile haptic feedback added
+* Introduce optimized glass blur effect & Improve glass blur filter rendering 
+* Touch response optimizations
+* Launcher3: Add default themed icons provider
+* Launcher3: Vibration intensity settings 
+* Launcher3: Update monochrome search bar icons
+* Launcher3: Fix smartspace visibility on higher grids
+* QuickSpace: Apply latest smartspace UI specs 
+* Launcher3: Fix bottomsheet info pref alignments 
+* Ortus Launcher: Fix memory info calculation
+* SystemUIGoogle: Fix now playing visibility updates
+* Added Lockscreen Weather styles
+* SystemUI: Regulate lockscreen charging info updates
+* App lock: Fixes and improvements
+* SystemUI: QS header gradient improvements
+* Miscellaneous other fixed and improvements
+Device Changes
+* added spatial audio support
+* switch kernel to sleepy
+
 02/08/2023:
 - Fixed 64mp mode in Leica
 - Fixed USB tethering
