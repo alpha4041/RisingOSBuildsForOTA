@@ -1,3 +1,12 @@
+15/08/2023:
+No device changes
+Source changes:
+- fix developer settings
+- first stable release of v1.3
+- implemented miui cameras support source-side
+- miscellanous changes, refer to the repo commits
+
+
 13/08/2023:
 Source Changes
 * Based on August Security Patch
